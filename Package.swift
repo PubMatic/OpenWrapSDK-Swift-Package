@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpenWrapSDK",
-            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/openwrapsdk/4.5.0/openwrapsdk-4.5.0.zip",
-            checksum: "215b286e96011354515a9c10d775401ba9a5683b569fddaed7cd6982ae35943e"
+            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/openwrapsdk/4.5.1/openwrapsdk-4.5.1.zip",
+            checksum: "13974d4614b4776961697fee8ee930729e0d2fcc62165b2246d50176d9a169dc"
         ),
         .binaryTarget(
             name: "OMSDK_Pubmatic",
