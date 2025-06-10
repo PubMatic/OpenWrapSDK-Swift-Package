@@ -16,8 +16,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "OMSDK_Pubmatic",
-            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/omsdk-pubmatic/1.5.2/omsdk-pubmatic-1.5.2.zip",
-            checksum: "59e332460546b1e26a8d6a8f4c82f14bde2f618e44d5662c19facdcbec7b1e77"
+            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/omsdk-pubmatic/1.5.4/omsdk-pubmatic-1.5.4.zip",
+            checksum: "9fa4924b73721127d7f821a65a3bbc36c932817e038a0cf5e99c4d76d728c051"
         )
     ]
 )
