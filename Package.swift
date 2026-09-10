@@ -11,13 +11,13 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OpenWrapSDK",
-            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/openwrapsdk/5.3.0/openwrapsdk-5.3.0.zip",
-            checksum: "243f8c4fe795f092fe23a9f310043ea60ab2c8a0651f3f6525950528d4ebff41"
+            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/openwrapsdk/5.4.0/openwrapsdk-5.4.0.zip",
+            checksum: "90e1a7a66539d6bde73711a12cb419ee83f469021325692577d0100222cf4943"
         ),
         .binaryTarget(
             name: "OMSDK_Pubmatic",
-            url: "https://repo.pubmatic.com/artifactory/public-repos/ios/swift-pkg-manager/omsdk-pubmatic/1.6.3/omsdk-pubmatic-1.6.3.zip",
-            checksum: "4c80753222f11d508726ccf577cc891da66fbd8974ef970977dd6fcffc6c7022"
+            url: "https://repo.pubmatic.com/artifactory/public-repos-gradle/ios/swift-pkg-manager/omsdk-pubmatic/1.6.3/omsdk-pubmatic-1.6.3.zip",
+            checksum: "2775b92d00d3ab58a10f805d3226fadb41ab5af1462e69dd16196a863a370bd8"
         )
     ]
 )
